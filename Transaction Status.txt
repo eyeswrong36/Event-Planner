@@ -1,0 +1,5 @@
+Transaction Status
+0 = not yet post
+1 = for approval
+2 = approved
+3 = rejected
